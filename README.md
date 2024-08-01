@@ -23,7 +23,6 @@ This project is a built with a modern tech stack, including Apollo GraphQL, Type
 - **Deployment:**
   - Docker
   - Docker Compose
-  - VPS (Virtual Private Server)
 
 ## Getting Started
 
