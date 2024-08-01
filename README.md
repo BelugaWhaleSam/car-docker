@@ -1,6 +1,6 @@
 ![w12](https://github.com/user-attachments/assets/afa6dfe5-8a8b-433c-884a-2bc754728b03)
 
-# My MERN Application
+# My Car-Rental Fullstack
 
 This project is a built with a modern tech stack, including Apollo GraphQL, Typescript, Tailwind CSS, and more. The application is fully responsive and designed to be easily deployable using Docker and Docker Compose.
 
